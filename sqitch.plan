@@ -2,3 +2,4 @@
 %project=sqitch_mars
 
 create-schema-rawstd 2024-11-07T04:10:05Z System Administrator <root@macbook-pro.lan> # creating rawstd schema
+rawstd-insta-saved-collections 2024-11-07T05:35:18Z Marlena Grobelny <mmgrobelny@gmail.com> # creating table in rawstd, insta_saved_collections

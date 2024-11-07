@@ -19,3 +19,14 @@ Export env var to shell
 ```
 export $(cat .env | xargs)
 ```
+
+
+Making changes to db via sqitch:
+```
+sqitch add <file name> -m "<message about changes>"
+```
+
+TODO:
+add a local db to test changes
+
+since dev is essentially our prod

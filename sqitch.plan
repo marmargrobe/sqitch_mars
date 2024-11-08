@@ -5,3 +5,4 @@ create-schema-rawstd 2024-11-07T04:10:05Z System Administrator <root@macbook-pro
 rawstd-insta-saved-collections 2024-11-07T05:35:18Z Marlena Grobelny <mmgrobelny@gmail.com> # creating table in rawstd, insta_saved_collections
 rawstd-insta-saved-reels 2024-11-07T06:22:37Z Marlena Grobelny <mmgrobelny@gmail.com> # creating rawstd.insta_saved_reels table
 alter-rawstd-insta-saved-reels-dtype 2024-11-08T04:45:16Z Marlena Grobelny <mmgrobelny@gmail.com> # alter dtype of video_url
+drop-fk-constraint-rawstd-insta-saved-reels 2024-11-08T04:53:26Z Marlena Grobelny <mmgrobelny@gmail.com> # dropping fk contraint

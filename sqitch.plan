@@ -9,3 +9,4 @@ drop-fk-constraint-rawstd-insta-saved-reels 2024-11-08T04:53:26Z Marlena Grobeln
 create-schema-clean 2024-11-08T05:32:30Z Marlena Grobelny <mmgrobelny@gmail.com> # creating clean schema
 clean-insta-saved-reels 2024-11-08T05:35:00Z Marlena Grobelny <mmgrobelny@gmail.com> # adding table for clean insta_saved_reels
 alter-clean-insta-saved-reels-dtype 2024-11-13T05:43:54Z Marlena Grobelny <mmgrobelny@gmail.com> # altering video_url dtype
+clean-insta-saved-reels-categories 2024-11-13T20:50:12Z Marlena Grobelny <mmgrobelny@gmail.com> # adding table for categorized saved reels

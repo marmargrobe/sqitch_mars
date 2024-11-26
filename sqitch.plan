@@ -14,3 +14,4 @@ alter-clean-insta-saved-reels-add-location-list 2024-11-21T01:42:04Z Marlena Gro
 rawstd-download-tables 2024-11-26T10:18:23Z Marlena Grobelny <mmgrobelny@gmail.com> # creating rawstd download tables
 alter-rawstd-downloads 2024-11-26T10:42:34Z Marlena Grobelny <mmgrobelny@gmail.com> # adding column for insta account
 alter-rawstd-insta-downloads 2024-11-26T19:07:35Z Marlena Grobelny <mmgrobelny@gmail.com> # adding unique constraints
+create-rawstd-insta-download-saved-reels-details 2024-11-26T20:51:32Z Marlena Grobelny <mmgrobelny@gmail.com> # creating table with reel details

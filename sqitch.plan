@@ -13,3 +13,4 @@ clean-insta-saved-reels-categories 2024-11-13T20:50:12Z Marlena Grobelny <mmgrob
 alter-clean-insta-saved-reels-add-location-list 2024-11-21T01:42:04Z Marlena Grobelny <mmgrobelny@gmail.com> # adding column for location extraction from caption text
 rawstd-download-tables 2024-11-26T10:18:23Z Marlena Grobelny <mmgrobelny@gmail.com> # creating rawstd download tables
 alter-rawstd-downloads 2024-11-26T10:42:34Z Marlena Grobelny <mmgrobelny@gmail.com> # adding column for insta account
+alter-rawstd-insta-downloads 2024-11-26T19:07:35Z Marlena Grobelny <mmgrobelny@gmail.com> # adding unique constraints

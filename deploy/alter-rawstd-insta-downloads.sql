@@ -3,7 +3,7 @@
 BEGIN;
 
 ALTER TABLE rawstd.insta_download_saved_collections
-ADD CONSTRAINT unique_columns_ridsc UNIQUE (collection_name, insta_account, creation_time),
+ADD CONSTRAINT unique_columns_ridsc UNIQUE (collection_name, insta_account),
 ADD COLUMN python_script VARCHAR,
 ADD COLUMN python_runtime TIMESTAMP;
 

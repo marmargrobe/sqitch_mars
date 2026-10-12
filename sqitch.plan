@@ -16,3 +16,4 @@ alter-rawstd-downloads 2024-11-26T10:42:34Z Marlena Grobelny <mmgrobelny@gmail.c
 alter-rawstd-insta-downloads 2024-11-26T19:07:35Z Marlena Grobelny <mmgrobelny@gmail.com> # adding unique constraints
 create-rawstd-insta-download-saved-reels-details 2024-11-26T20:51:32Z Marlena Grobelny <mmgrobelny@gmail.com> # creating table with reel details
 alter-rawstd-reel-details 2024-11-26T21:06:30Z Marlena Grobelny <mmgrobelny@gmail.com> # adding hashtag column
+rawstd-download-reels-nulls-not-distinct 2026-10-12T17:38:36Z Marlena Grobelny <mmgrobelny@gmail.com> # treat NULL collection_name as equal in unique constraint so re-imports don't duplicate saved posts

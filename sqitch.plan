@@ -17,3 +17,5 @@ alter-rawstd-insta-downloads 2024-11-26T19:07:35Z Marlena Grobelny <mmgrobelny@g
 create-rawstd-insta-download-saved-reels-details 2024-11-26T20:51:32Z Marlena Grobelny <mmgrobelny@gmail.com> # creating table with reel details
 alter-rawstd-reel-details 2024-11-26T21:06:30Z Marlena Grobelny <mmgrobelny@gmail.com> # adding hashtag column
 rawstd-download-reels-nulls-not-distinct 2026-10-12T17:38:36Z Marlena Grobelny <mmgrobelny@gmail.com> # treat NULL collection_name as equal in unique constraint so re-imports don't duplicate saved posts
+clean-collection-tabs 2026-10-13T11:15:09Z Marlena Grobelny <mmgrobelny@gmail.com> # map Instagram collections to app tabs
+clean-saved-posts-view [clean-collection-tabs] 2026-10-13T11:15:10Z Marlena Grobelny <mmgrobelny@gmail.com> # one row per saved post across all sources

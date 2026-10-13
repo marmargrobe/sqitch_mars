@@ -27,3 +27,4 @@ clean-watch-read [clean-saved-posts-view reference-imdb-titles] 2026-10-13T13:25
 clean-workouts [clean-saved-posts-view] 2026-10-13T13:42:27Z Marlena Grobelny <mmgrobelny@gmail.com> # workouts, massages and face yoga extracted from captions
 clean-journal-prompts [clean-saved-posts-view] 2026-10-13T13:46:55Z Marlena Grobelny <mmgrobelny@gmail.com> # prompts extracted from Journals posts, and my labels for them
 ops-pipeline-runs 2026-10-13T14:22:07Z Marlena Grobelny <mmgrobelny@gmail.com> # log of refresh pipeline runs, one row per step
+personal-journal-entries 2026-10-13T15:50:42Z Marlena Grobelny <mmgrobelny@gmail.com> # my journal replies to prompts, kept apart from Instagram data

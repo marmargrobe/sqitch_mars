@@ -2,6 +2,6 @@
 
 BEGIN;
 
-DROP TABLE rawstd.insta_saved_collections;
+DROP TABLE IF EXISTS rawstd.insta_saved_collections;
 
 COMMIT;

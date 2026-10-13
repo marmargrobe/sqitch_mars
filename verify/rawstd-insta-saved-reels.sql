@@ -2,7 +2,7 @@
 
 BEGIN;
 
-CREATE TABLE rawstd.insta_saved_reels (
+CREATE TABLE IF NOT EXISTS rawstd.insta_saved_reels (
     pk VARCHAR(50), -- This value alligns with the collections data ID
     id VARCHAR(50) PRIMARY KEY,
     code VARCHAR(50),

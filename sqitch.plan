@@ -20,3 +20,5 @@ rawstd-download-reels-nulls-not-distinct 2026-10-12T17:38:36Z Marlena Grobelny <
 clean-collection-tabs 2026-10-13T11:15:09Z Marlena Grobelny <mmgrobelny@gmail.com> # map Instagram collections to app tabs
 clean-saved-posts-view [clean-collection-tabs] 2026-10-13T11:15:10Z Marlena Grobelny <mmgrobelny@gmail.com> # one row per saved post across all sources
 clean-recipes [clean-saved-posts-view] 2026-10-13T11:36:03Z Marlena Grobelny <mmgrobelny@gmail.com> # recipes extracted from saved post captions
+clean-travel-places [clean-saved-posts-view] 2026-10-13T12:03:45Z Marlena Grobelny <mmgrobelny@gmail.com> # place candidates for travel posts and geocoding cache
+clean-travel-place-choices [clean-travel-places] 2026-10-13T12:13:03Z Marlena Grobelny <mmgrobelny@gmail.com> # my corrections to travel places, kept across re-extraction

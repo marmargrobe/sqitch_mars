@@ -24,3 +24,4 @@ clean-travel-places [clean-saved-posts-view] 2026-10-13T12:03:45Z Marlena Grobel
 clean-travel-place-choices [clean-travel-places] 2026-10-13T12:13:03Z Marlena Grobelny <mmgrobelny@gmail.com> # my corrections to travel places, kept across re-extraction
 reference-imdb-titles 2026-10-13T13:25:29Z Marlena Grobelny <mmgrobelny@gmail.com> # IMDb movies and series for title lookup (non-commercial datasets)
 clean-watch-read [clean-saved-posts-view reference-imdb-titles] 2026-10-13T13:25:30Z Marlena Grobelny <mmgrobelny@gmail.com> # titles found in Watch / read posts, and my watched list
+clean-workouts [clean-saved-posts-view] 2026-10-13T13:42:27Z Marlena Grobelny <mmgrobelny@gmail.com> # workouts, massages and face yoga extracted from captions

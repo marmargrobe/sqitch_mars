@@ -28,3 +28,4 @@ clean-workouts [clean-saved-posts-view] 2026-10-13T13:42:27Z Marlena Grobelny <m
 clean-journal-prompts [clean-saved-posts-view] 2026-10-13T13:46:55Z Marlena Grobelny <mmgrobelny@gmail.com> # prompts extracted from Journals posts, and my labels for them
 ops-pipeline-runs 2026-10-13T14:22:07Z Marlena Grobelny <mmgrobelny@gmail.com> # log of refresh pipeline runs, one row per step
 personal-journal-entries 2026-10-13T15:50:42Z Marlena Grobelny <mmgrobelny@gmail.com> # my journal replies to prompts, kept apart from Instagram data
+reference-exercises [reference-imdb-titles] 2026-10-14T10:03:41Z Marlena Grobelny <mmgrobelny@gmail.com> # exercise database (free-exercise-db, public domain) for the body map
